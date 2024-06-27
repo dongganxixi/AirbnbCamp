@@ -23,6 +23,7 @@
 		09C0B1432C2D4F1600186CEC /* MainTabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 09C0B1422C2D4F1600186CEC /* MainTabView.swift */; };
 		09C0B1452C2D4F1F00186CEC /* WishListsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 09C0B1442C2D4F1F00186CEC /* WishListsView.swift */; };
 		09C0B1472C2D4F2500186CEC /* Item.swift in Sources */ = {isa = PBXBuildFile; fileRef = 09C0B1462C2D4F2500186CEC /* Item.swift */; };
+		09C0B1532C2D548700186CEC /* Listing.swift in Sources */ = {isa = PBXBuildFile; fileRef = 09C0B1522C2D548700186CEC /* Listing.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -43,6 +44,7 @@
 		09C0B1422C2D4F1600186CEC /* MainTabView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MainTabView.swift; sourceTree = "<group>"; };
 		09C0B1442C2D4F1F00186CEC /* WishListsView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WishListsView.swift; sourceTree = "<group>"; };
 		09C0B1462C2D4F2500186CEC /* Item.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Item.swift; sourceTree = "<group>"; };
+		09C0B1522C2D548700186CEC /* Listing.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Listing.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -188,6 +190,7 @@
 		09C0B12E2C2D4DF600186CEC /* Models */ = {
 			isa = PBXGroup;
 			children = (
+				09C0B1522C2D548700186CEC /* Listing.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -276,6 +279,7 @@
 				09C0B1472C2D4F2500186CEC /* Item.swift in Sources */,
 				09C0B1402C2D4F0D00186CEC /* ProfileView.swift in Sources */,
 				09C0B1332C2D4E9900186CEC /* LoginButton.swift in Sources */,
+				09C0B1532C2D548700186CEC /* Listing.swift in Sources */,
 				09C0B1392C2D4EBB00186CEC /* SearchAndFilterBar.swift in Sources */,
 				09C0B13D2C2D4EE800186CEC /* ListingDetailView.swift in Sources */,
 				09C0B13C2C2D4EE800186CEC /* ListingItemView.swift in Sources */,
